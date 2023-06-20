@@ -1,4 +1,5 @@
-![FABWMobile](https://github.com/KallyneRocha/PorUmMundoMelhor/assets/81446987/ee51ea5d-88b6-4107-9015-dc75e58fb06f)
+
+![FABWMobile (1)](https://github.com/KallyneRocha/PorUmMundoMelhor/assets/81446987/53a05c97-9a39-4aa6-96e0-dba046746fc3)
 
 ## Lean Canvas
 
