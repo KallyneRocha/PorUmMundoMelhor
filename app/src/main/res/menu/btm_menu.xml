@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Others"
+        android:icon="@drawable/baseline_person_pin_24"
+        android:id="@+id/homeFragment"></item>
+    <item android:title="Nature"
+        android:icon="@drawable/baseline_compost_24"
+        android:id="@+id/environmentalFragment"></item>
+    <item android:title="Categories"
+        android:icon="@drawable/baseline_category_24"
+        android:id="@+id/categoriesFragment"></item>
+
+</menu>
