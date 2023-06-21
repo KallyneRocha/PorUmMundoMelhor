@@ -1,5 +1,8 @@
 
 ![FABWMobile (1)](https://github.com/KallyneRocha/PorUmMundoMelhor/assets/81446987/53a05c97-9a39-4aa6-96e0-dba046746fc3)
+## Canvas de proposta de valor
+
+![Slide 16_9 - 1](https://github.com/KallyneRocha/PorUmMundoMelhor/assets/81446987/96425bba-6b99-4495-a595-f768ab73aa71)
 
 ## Lean Canvas
 
